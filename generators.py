@@ -113,7 +113,7 @@ CAMPAIGNS = [
         "data_source_id": 5,
         "start_date": date(2025, 11, 28),
         "end_date": date(2025, 11, 29),
-        "baseline_impressions_per_day": 1000,
+        "baseline_impressions_per_day": 7000,
         "avg_order_value": 70.0,
         "budget": 580000.0,
     },
@@ -130,7 +130,7 @@ CAMPAIGNS = [
     },
 ]
 
-START = date(2024, 1, 1)
+START = date(2025, 1, 1)
 END = date(2025, 12, 31)
 
 
